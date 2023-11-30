@@ -112,10 +112,10 @@ Publish the website in the LocalHost.
                 <hr>
             </div>
             <div class="h1">
-                <h1> Responsive Web Design with HTML5 and CSS </h1>
+                <h1> HTML and CSS in UX Designer/Developer </h1>
             </div>
             <div class="p">
-                <p> Develop future-proof responsive websites using the latest HTML5 and CSS techniques </p>
+                <p> A UX designer is in charge of a product or service's user experience. It is their job to ensure that the functionality is smooth, accessible, and intuitive to the user's needs and behaviours. </p>
             </div>
             <div class="photo">
                 <img src="pic.jpg" Pic.JPG" width="130" height="145" alt="">
@@ -139,7 +139,7 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-![Alt text](<book cover.png>)
+![Alt text](<Screenshot (22).png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
